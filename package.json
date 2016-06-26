@@ -1,0 +1,26 @@
+{
+  "name": "sqlparser",
+  "version": "1.0.0",
+  "description": "SQL parser in JavaScript",
+  "main": "sqlparser.js",
+  "dependencies": {},
+  "devDependencies": {
+    "google-closure-compiler": "^20160619.0.0",
+    "google-closure-library": "^20160619.0.0",
+    "gulp": "^3.9.1",
+    "gulp-closure-compiler": "^0.4.0",
+    "gulp-protractor": "^2.4.0",
+    "gulp-run": "^1.7.1",
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "phantomjs": "^2.1.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
